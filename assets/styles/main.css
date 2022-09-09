@@ -9,3 +9,8 @@ html *
    color: #000 !important;
    font-family:  rampart-one!important;
 }
+
+body {
+  padding: 0;
+  margin: 0;
+}
