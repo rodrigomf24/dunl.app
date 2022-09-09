@@ -1,0 +1,11 @@
+@font-face {
+  font-family: rampart-one;
+  src: url(../Rampart_One/RampartOne-Regular.ttf);
+}
+
+html *
+{
+   font-size: 1em !important;
+   color: #000 !important;
+   font-family:  rampart-one!important;
+}
